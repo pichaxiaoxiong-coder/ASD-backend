@@ -1,0 +1,45 @@
+{
+  "scene": "烦躁",
+  "description": "当别人因压力、环境或人际关系而感到不耐烦或紧绷时的表现方式",
+  "sub_scenes": [
+    {
+      "type": "轻度烦躁",
+      "patterns": ["唉…", "有点烦", "可以等一下吗", "我有点累"],
+      "simple_explanation": "对方需要空间或时间。",
+      "why": "他们被打断或分心。",
+      "suggestion_steps": [
+        "给对方一点安静空间。",
+        "减少提问。",
+        "不用问太多理由。",
+        "不要强迫对方马上回应。"
+      ],
+      "emotion_level": "低",
+      "context_notes": "通常很快会恢复"
+    },
+    {
+      "type": "明显烦躁",
+      "patterns": ["别吵我", "不要再问了", "够了", "我很烦"],
+      "simple_explanation": "情绪明显不佳。",
+      "why": "压力或被要求太多。",
+      "suggestion_steps": [
+        "保持距离，避免争论。",
+        "说：\"等你准备好了再跟我说。\"",
+        "不要继续刺激对方。",
+        "避免讲道理。"
+      ],
+      "emotion_level": "中到高",
+      "context_notes": "对方需要冷静"
+    }
+  ],
+  "general_principles": [
+    "烦躁时不要逼对方说话。",
+    "减少交流量。",
+    "避免评判对方。",
+    "给对方时间恢复。"
+  ],
+  "nonverbal_signals": [
+    { "signal": "皱眉", "meaning": "正在烦躁" },
+    { "signal": "快速呼吸", "meaning": "紧绷或压力大" },
+    { "signal": "手部动作增加", "meaning": "焦躁心理的表现" }
+  ]
+}

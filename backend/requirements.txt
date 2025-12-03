@@ -1,0 +1,22 @@
+fastapi==0.115.2
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+motor==3.6.0
+chromadb==0.5.11
+langchain==0.3.7
+openai==1.52.2
+prometheus-fastapi-instrumentator==7.0.0
+jieba==0.42.1
+
+# 认证相关
+PyJWT==2.9.0
+passlib[bcrypt]==1.7.4
+
+# 可选：后续接入大模型/链式（按需开启）
+# langchain
+# openai
+
+
+
+

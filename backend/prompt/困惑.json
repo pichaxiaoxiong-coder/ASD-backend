@@ -1,0 +1,43 @@
+{
+  "scene": "困惑",
+  "description": "当别人听不懂、搞不清楚状况或需要更多信息时的表现方式",
+  "sub_scenes": [
+    {
+      "type": "轻微困惑",
+      "patterns": ["嗯？", "所以呢？", "什么意思？", "我不太懂"],
+      "simple_explanation": "对方需要更多解释。",
+      "why": "信息不够或表达不清楚。",
+      "suggestion_steps": [
+        "重新解释，用更简单的方式。",
+        "用例子说明。",
+        "语速放慢。",
+        "确认：\"这样有比较清楚吗？\""
+      ],
+      "emotion_level": "低",
+      "context_notes": "常见于复杂话题"
+    },
+    {
+      "type": "明显困惑",
+      "patterns": ["等等，我搞不懂", "你再说一遍", "我有点乱", "我跟不上"],
+      "simple_explanation": "对方完全失去理解线索。",
+      "why": "信息量太大或节奏太快。",
+      "suggestion_steps": [
+        "暂停话题。",
+        "简化信息。",
+        "重新整理重点。",
+        "确认：\"我们一步一步来。\""
+      ],
+      "emotion_level": "中",
+      "context_notes": "需要耐心讲解"
+    }
+  ],
+  "general_principles": [
+    "困惑不是能力不足，而是信息缺乏。",
+    "说话要根据对方理解力调整。",
+    "鼓励提问。"
+  ],
+  "nonverbal_signals": [
+    { "signal": "皱眉", "meaning": "正在努力理解" },
+    { "signal": "头稍微歪", "meaning": "不确定或试图处理信息" }
+  ]
+}

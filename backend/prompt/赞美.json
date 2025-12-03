@@ -1,0 +1,42 @@
+{
+  "scene": "赞美",
+  "description": "当别人夸奖你、认可你或对你表示欣赏时的表达方式",
+  "sub_scenes": [
+    {
+      "type": "日常赞美",
+      "patterns": ["你做得很好", "不错嘛", "很厉害", "你今天看起来不错"],
+      "simple_explanation": "普通、友善的赞美。",
+      "why": "对方认可你的表现或外表。",
+      "suggestion_steps": [
+        "回应：\"谢谢。\"",
+        "可以简短回礼：\"你也不错。\"",
+        "不要否定赞美。"
+      ],
+      "emotion_level": "低",
+      "context_notes": "常见于朋友、同事间"
+    },
+    {
+      "type": "深度赞美",
+      "patterns": ["你真的很用心", "这真的非常棒", "你真的很厉害", "没有你做不到的事"],
+      "simple_explanation": "对方对你有高度肯定。",
+      "why": "他们真心欣赏你的能力。",
+      "suggestion_steps": [
+        "接受赞美并感谢。",
+        "可以分享一些你是如何做到的。",
+        "不要过度谦虚。"
+      ],
+      "emotion_level": "中",
+      "context_notes": "表达真诚的认可"
+    }
+  ],
+  "general_principles": [
+    "接受赞美是一种礼貌。",
+    "不要否定或自贬。",
+    "简单回应即可，不需过度反应。",
+    "适当回礼能维护关系。"
+  ],
+  "nonverbal_signals": [
+    { "signal": "微笑", "meaning": "友善的欣赏" },
+    { "signal": "点头", "meaning": "赞许对方行为" }
+  ]
+}

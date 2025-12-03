@@ -1,0 +1,41 @@
+{
+  "scene": "道歉",
+  "description": "当别人意识到自己做错事或造成困扰时的表现方式",
+  "sub_scenes": [
+    {
+      "type": "轻度道歉",
+      "patterns": ["不好意思", "抱歉啦", "我不是故意的", "不好意思打扰"],
+      "simple_explanation": "小事上的礼貌道歉。",
+      "why": "对方在意社交礼仪。",
+      "suggestion_steps": [
+        "回应：\"没关系。\"",
+        "不要夸大事情。"
+      ],
+      "emotion_level": "低",
+      "context_notes": "最常见的小道歉"
+    },
+    {
+      "type": "正式道歉",
+      "patterns": ["对不起", "我真的错了", "请原谅我", "我不应该这样"],
+      "simple_explanation": "对方非常重视这一件事。",
+      "why": "他们觉得自己影响到你。",
+      "suggestion_steps": [
+        "回应：\"谢谢你愿意道歉。\"",
+        "表达你的感受。",
+        "避免说：\"没事啦\"（会让他们觉得你敷衍）"
+      ],
+      "emotion_level": "中",
+      "context_notes": "适用于较严重的人际冲突"
+    }
+  ],
+  "general_principles": [
+    "让对方表达他们的歉意。",
+    "不要嘲弄对方的道歉。",
+    "及时回应。",
+    "如果伤害已经解除，可以表示理解。"
+  ],
+  "nonverbal_signals": [
+    { "signal": "低头", "meaning": "羞愧或懊悔" },
+    { "signal": "轻声说话", "meaning": "害怕伤害关系" }
+  ]
+}

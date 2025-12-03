@@ -1,0 +1,42 @@
+{
+  "scene": "害羞",
+  "description": "当别人因为不熟悉、被关注或自信心不足而感到害羞时的表现方式",
+  "sub_scenes": [
+    {
+      "type": "轻度害羞",
+      "patterns": ["嗯…", "哦…", "我不太确定", "随便啦"],
+      "simple_explanation": "对方只是有点拘谨。",
+      "why": "不熟悉场合或怕说错话。",
+      "suggestion_steps": [
+        "温和提问。",
+        "不要逼他们一直讲话。",
+        "给他们时间适应。"
+      ],
+      "emotion_level": "低",
+      "context_notes": "常见于初次见面"
+    },
+    {
+      "type": "强烈害羞",
+      "patterns": ["我不敢啦", "不要看我", "我不知道怎么做", "我紧张"],
+      "simple_explanation": "对方感到不安甚至焦虑。",
+      "why": "他们害怕被评价。",
+      "suggestion_steps": [
+        "保持温柔语气。",
+        "不要强迫参与社交。",
+        "说：\"没关系，你慢慢来。\""
+      ],
+      "emotion_level": "中到高",
+      "context_notes": "需要安全空间"
+    }
+  ],
+  "general_principles": [
+    "尊重对方的节奏。",
+    "不要强迫或逼问。",
+    "鼓励但不施压。",
+    "建立安全感很重要。"
+  ],
+  "nonverbal_signals": [
+    { "signal": "低头", "meaning": "害羞或不安" },
+    { "signal": "轻轻捏衣服、手指", "meaning": "紧张的表现" }
+  ]
+}

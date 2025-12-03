@@ -1,0 +1,41 @@
+{
+  "scene": "赞同",
+  "description": "当别人表示认同你的观点或支持你的想法时的表现方式",
+  "sub_scenes": [
+    {
+      "type": "普通赞同",
+      "patterns": ["我觉得你说得对", "有道理", "我同意", "嗯嗯对"],
+      "simple_explanation": "对方认同你的观点。",
+      "why": "你的观点符合他们的看法。",
+      "suggestion_steps": [
+        "回应：\"谢谢你认同。\"",
+        "可继续扩展讨论。",
+        "保持开放态度。"
+      ],
+      "emotion_level": "低",
+      "context_notes": "日常对话常见"
+    },
+    {
+      "type": "强烈赞同",
+      "patterns": ["你说的完全正确！", "太同意了！", "我一直这样想！", "你讲出我的心声！"],
+      "simple_explanation": "对方对你的观点有强烈共鸣。",
+      "why": "你表达了他们难以表达的想法。",
+      "suggestion_steps": [
+        "回应：\"我们想法好像很接近。\"",
+        "继续深入讨论。",
+        "保持友好语气。"
+      ],
+      "emotion_level": "中到高",
+      "context_notes": "具有强烈情感共鸣"
+    }
+  ],
+  "general_principles": [
+    "赞同是连接关系的方式。",
+    "回应对方能增加互相信任。",
+    "允许观点交流。"
+  ],
+  "nonverbal_signals": [
+    { "signal": "点头", "meaning": "强烈认同" },
+    { "signal": "身体前倾", "meaning": "对话题感兴趣" }
+  ]
+}
